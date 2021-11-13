@@ -1,0 +1,6 @@
+[submodule "StoreService"]
+        path= service/store 
+        url= git@github.com:omidmm16/subtree-store-backend.git
+[submodule "StoreFrontend"]
+        path= service/store-frontend 
+        url= git@github.com:omidmm16/subtree-store-frontend.git
